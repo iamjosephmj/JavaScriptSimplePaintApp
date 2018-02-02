@@ -1,6 +1,6 @@
 # JavaScriptSimplePaintApp
 
-Application is written using Plain JavaScript & HTML - no third party libraries like KineticJS or jQuery should be used.
+Application is written using Plain JavaScript & HTML - no third party libraries like KineticJS or jQuery is used.
 -----------------------------------------------------------------------------------------------------------------------
 
 -Description:
